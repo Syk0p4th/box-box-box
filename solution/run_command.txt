@@ -1,1 +1,3 @@
+python solution/the_learner.py --files 30
+then
 python solution/race_simulator.py
